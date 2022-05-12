@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+    <string name="logo_text">Погода у містах світу</string>
+    <string name="hint_text">Введіть назву міста</string>
+    <string name="btn_text">Отримати погоду</string>
+    <string name="empty_city_name">Ви повинні вказати назву міста</string>
+    <string name="pre_load_mess">Шукаємо погоду</string>
+    <string name="error_load_mess">Місто не знайдено</string>
+</resources>
